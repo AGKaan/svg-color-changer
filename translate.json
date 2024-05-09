@@ -1,0 +1,43 @@
+{
+    "__info__"  : "please add your language to botttom, after append to langs list", 
+    "langs" : ["Turkish","English"],
+
+    "Turkish":{
+        "lang" : "Türkçe",
+        "select_folder_ask":"hedefteki klasörü seçin",
+        "error_title":"Hata",
+        "error_msg_no_svg" :"klasörde svg uzantılı dosya bulunamadı",
+        "error_msg_save_and_target_loc_same":"hedef klasör ve kayıt klasörü aynı konum olamaz",
+        "error_msg_pick_color":"renk seçimi yapılmalıdır",
+        "error_msg_pick_target":"hedef klasör seçilmelidir",
+        "error_msg_pick_save":"kayıt klasörü seçilmelidir",
+        "error_msg_give_name":"kayıt klasörü için isim verilmelidir",
+        "error_msg_permission":"yetkisiz eirşim, kayıt konumuna erişilemiyor",
+        "error_msg_exist":"burada bu isimde bir kayıt klasörü bulunmaktadır",
+        "target_location_pushButton":"Hedef İkon Klasörü(SVG)",
+        "save_location_pushButton":"Kayıt Klasörü",
+        "pick_color_pushButton":"Renk Seç",
+        "give_name_label":"İsim",
+        "start_pushButton":"Başla"
+
+    },
+
+    "English":{
+        "lang" : "English",
+        "select_folder_ask" :"Select target location",
+        "error_title":"Error",
+        "error_msg_no_svg" :"no svg file found in folder",
+        "error_msg_save_and_target_loc_same":"save location and taret location cannot be same",
+        "error_msg_pick_color":"color should be picked",
+        "error_msg_pick_target":"target location should be picked",
+        "error_msg_pick_save":"save location should be picked",
+        "error_msg_give_name":"Name should be given",
+        "error_msg_permission":"Permission error, cannot reach save location",
+        "error_msg_exist":"Given name already exist in save location",
+        "target_location_pushButton":"Target Icons Folder(SVG)",
+        "save_location_pushButton":"Save Location",
+        "pick_color_pushButton":"Pick Color",
+        "give_name_label":"Give Name",
+        "start_pushButton":"Start"
+    }
+}
